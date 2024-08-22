@@ -1,16 +1,4 @@
-# Skillcheck
-Blockchain technology is one of those technologies which are at an infancy. There is a vast literature which argues that there are ample number of places where Blockchain Technology is yet to
-implemented. One of those is the education system. Skill verification is one of those problems which
-many recruiters, companies and even professor face when they want to select a few of many. We
-propose a blockchain based system where examiner can rely on the scores of a user in a particular
-skill which you name on our platform, i.e SkillCheck. This system also conduct the test and get the
-top-ranked without taking the effort of checking a large amount of answerscript. In this paper we
-present a blockchain based system which can verify skills using examination conducted by various
-examiners without doing effort of checking answerscript. We have implemented a blockchain based
-portal which reduces the effort of an examiner by crowd-sourcing the task of grading of using an
-algorithm that process certain desirably properties against strategic behavior. An allocation algorithm
-is presented, which can incentivise evaluators to evaluate exam paper.
+# Proficiency Reviewer
+The fast rise of online education, fueled by massive open online courses (MOOC), has been unparalleled. This expansion required several qualities common in blockchains, most notably (i) the absence of a central authority and (ii) verifiable certifications. Skill certification today requires need-based abilities, which can be tough to get in a traditional university system. A course on Android app development, for example, may not be included in a university curriculum, but a student competent in it may be important to specific organizations. However, the organization must hire the student uncertified, which may result in inaccurate judgement, or must test the skill on its own, which is costly. As a result, there is a demand for blockchain-based easy management and assessment of student competencies. This system also conduct the test and get the
+top-ranked without taking the effort of checking a large amount of answerscript. 
 
-### THE PAPER HAS BEEN ACCEPTED BY IEEE ICBC(INTERNATIONAL CONFERENCE ON BLOCKCHAIN AND CRYPTOCURRENCY) 2020
-
-Link to the paper is given: http://arxiv.org/abs/2003.03540
